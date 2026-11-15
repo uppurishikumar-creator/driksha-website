@@ -2,7 +2,8 @@
 
 Website for **Driksha**, a website development & digital marketing studio founded by Rishi, Dhruthi and Kishore.
 
-Live: _add your Vercel link here_
+Live: https://driksha-website-mt52.vercel.app/
+
 
 ## Structure
 ```
